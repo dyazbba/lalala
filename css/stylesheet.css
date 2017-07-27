@@ -1,0 +1,12 @@
+nav li {  
+  display: inline-block;
+ }  
+body{  background-color:#ffffff;
+}
+
+.summer{
+    color:#000000;
+}
+
+a:link { 
+    text-decoration: none; }
